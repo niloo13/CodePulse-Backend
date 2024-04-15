@@ -18,7 +18,7 @@ This ASP.NET Core Web API is a backend service designed to support the Angular f
 ## Installation
 1. Clone the repository:
    ```
-   git clone [repository-url]
+   git clone ....
    ```
 2. Navigate to the project directory:
    ```

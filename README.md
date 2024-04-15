@@ -1,4 +1,4 @@
-# [Project Name] - ASP.NET Core Web API
+# CodePulse - ASP.NET Core Web API
 
 ## Introduction
 This ASP.NET Core Web API is a backend service designed to support the Angular frontend application. It handles CRUD operations, user authentication, and provides data persistence via Entity Framework Core with a SQL Server database.
